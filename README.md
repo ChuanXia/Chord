@@ -18,9 +18,9 @@ This is implementation of Chord. Please check the [paper](http://db.cs.duke.edu/
 <br>
 **Compile**
 
-Open terminal, change directory to **chord_cx16_2.0**.
+Open terminal, change directory to **Chord**.
 
-	cd /Users/.../chord_cx16_2.0
+	cd /Users/.../Chord
 
 Now you could compile it using my Makefile! Just type `make`.
 	
